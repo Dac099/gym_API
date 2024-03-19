@@ -1,0 +1,17 @@
+{
+  "upperBody": [
+    "Trapecio",
+    "Hombro",
+    "Pecho",
+    "Espalda",
+    "Tricep",
+    "Antebrazo",
+    "Abdomen"
+  ],
+  "bottomBody": [
+    "Cuadricep",
+    "Femoral",
+    "Pantorrilla",
+    "Glúteo"
+  ]
+}

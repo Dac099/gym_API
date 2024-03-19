@@ -1,0 +1,31 @@
+{
+  "weights": [
+    "Mancuernas",
+    "Mancuerna Rusa",
+    "Barra Z",
+    "Barra recta",
+    "Cuerpo"
+  ],
+  "machines": [
+    "Polea alta",
+    "Polea baja",
+    "Máquina de hombros",
+    "Máquina de remo",
+    "Máquina de espalda",
+    "Peck deck",
+    "Máquina pecho",
+    "Máquina de fondos",
+    "Máquina para extensión de tricep",
+    "Máquina predicador",
+    "Máquina curl de bicep",
+    "Máquina extensión de cuadricep",
+    "Máquina smith",
+    "Máquina de pantorrillas",
+    "Máquina de sentadilla articulada",
+    "Prensa",
+    "Máquina de prensa",
+    "Máquina extensión de femoral",
+    "Máquina de abductores",
+    "Máquina de aductores"
+  ]
+}
